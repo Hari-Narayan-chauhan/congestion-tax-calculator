@@ -1,3 +1,6 @@
+#Swagger
+http://localhost:8088/swagger-ui.html
+
 #Request
 
 /api/tax/calculator
